@@ -8,7 +8,7 @@ image:
   repository: frenoid/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 36f635ddcc17a258b2b162a9ccb4a965e876c17d
+  tag: 98c17c272484c3cb8cc92c483fa8798e79977f13
 
 imagePullSecrets: []
 nameOverride: ""
